@@ -4,8 +4,7 @@
 
 
 コマンド手順
-
- make
+make
  
  sudo insmod myled.ko
  

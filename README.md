@@ -3,7 +3,7 @@
 このプログラムはLEDの点滅プログラムである
 
 
-コマンド手順
+コマンド手順  
    make  
    sudo insmod myled.ko  
    sudo chmod 666 /dev/myled0  
